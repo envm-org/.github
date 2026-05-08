@@ -1,3 +1,3 @@
-### building tools for environment management.
+### manage, store and synchronize environment variables
 
 
